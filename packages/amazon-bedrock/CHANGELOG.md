@@ -1,5 +1,11 @@
 # @ai-sdk/amazon-bedrock
 
+## 4.0.171
+
+### Patch Changes
+
+- 0465c7e: fix(amazon-bedrock): return generated text from citation content blocks
+
 ## 4.0.170
 
 ### Patch Changes
