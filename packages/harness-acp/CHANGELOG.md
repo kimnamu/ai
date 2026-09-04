@@ -1,5 +1,14 @@
 # @ai-sdk/harness-acp
 
+## 1.0.40
+
+### Patch Changes
+
+- eeed977: feat(harness): allow passing arbitrary headers with inference requests via `headers` property in `HarnessAgentSettings`
+- Updated dependencies [fe86f8f]
+- Updated dependencies [eeed977]
+  - @ai-sdk/harness@1.0.102
+
 ## 1.0.39
 
 ### Patch Changes

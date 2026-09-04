@@ -1,5 +1,15 @@
 # ai
 
+## 7.0.93
+
+### Patch Changes
+
+- f13d371: fix(ai): preserve provider metadata when converting failed tool calls
+- d4485fe: feat(ai): support minItems and maxItems in array outputs
+- 4f201cc: chore(ai): formally include already supported `onLanguageModelCallStart` and `onLanguageModelCallEnd` in `ToolLoopAgentSettings` type
+- fc8e8ac: fix(ai): preserve image call diagnostics when no image is generated
+- ee8391e: fix(ai): support abort signals when the global AbortSignal is not a constructor
+
 ## 7.0.92
 
 ### Patch Changes

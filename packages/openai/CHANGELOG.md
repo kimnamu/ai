@@ -1,5 +1,11 @@
 # @ai-sdk/openai
 
+## 4.0.59
+
+### Patch Changes
+
+- abb9ebf: feat(openai): support `gpt-4o-transcribe-diarize`, including chunking and diarized speaker metadata
+
 ## 4.0.58
 
 ### Patch Changes

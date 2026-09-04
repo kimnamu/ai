@@ -1,5 +1,13 @@
 # @ai-sdk/amazon-bedrock
 
+## 5.0.75
+
+### Patch Changes
+
+- 1ee6b1f: fix(amazon-bedrock): return text from citation content responses
+- Updated dependencies [abb9ebf]
+  - @ai-sdk/openai@4.0.59
+
 ## 5.0.74
 
 ### Patch Changes

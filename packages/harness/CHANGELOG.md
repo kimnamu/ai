@@ -1,5 +1,18 @@
 # @ai-sdk/harness
 
+## 1.0.102
+
+### Patch Changes
+
+- fe86f8f: feat(harness): support established lifecycle callbacks from `ToolLoopAgent` on `HarnessAgent` too
+- eeed977: feat(harness): allow passing arbitrary headers with inference requests via `headers` property in `HarnessAgentSettings`
+- Updated dependencies [f13d371]
+- Updated dependencies [d4485fe]
+- Updated dependencies [4f201cc]
+- Updated dependencies [fc8e8ac]
+- Updated dependencies [ee8391e]
+  - ai@7.0.93
+
 ## 1.0.101
 
 ### Patch Changes
